@@ -60,3 +60,12 @@ O projeto já possui as dependências listadas no `package.json`. Para instalar 
 
 ```bash
 npm install
+
+----------------------
+
+Caso precise instalar as bibliotecas manualmente, os comandos utilizados foram:
+
+npm install @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs @react-navigation/drawer
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context
+npm install @react-native-async-storage/async-storage
+npm install @react-native-picker/picker
