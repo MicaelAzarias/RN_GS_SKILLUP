@@ -51,3 +51,12 @@ Caso queira testar rapidamente, utilize os dados abaixo:
 * **Async Storage** (Persistência de dados local)
 * **Context API** (Gerenciamento de estado global de autenticação)
 * **Hooks** (useState, useEffect, useContext)
+
+---
+
+* ## 🚀 Instalação e Dependências
+
+O projeto já possui as dependências listadas no `package.json`. Para instalar todas automaticamente, execute:
+
+```bash
+npm install
